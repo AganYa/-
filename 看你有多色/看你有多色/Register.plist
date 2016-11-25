@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>密码</key>
+		<string>f</string>
+		<key>用户名</key>
+		<string>a</string>
+	</dict>
+	<dict>
+		<key>密码</key>
+		<string>f</string>
+		<key>用户名</key>
+		<string>a</string>
+	</dict>
+	<dict>
+		<key>密码</key>
+		<string>a</string>
+		<key>用户名</key>
+		<string>g</string>
+	</dict>
+	<dict>
+		<key>密码</key>
+		<string>f</string>
+		<key>用户名</key>
+		<string>s</string>
+	</dict>
+	<dict>
+		<key>密码</key>
+		<string>s</string>
+		<key>用户名</key>
+		<string>a</string>
+	</dict>
+	<dict>
+		<key>密码</key>
+		<string>ff</string>
+		<key>用户名</key>
+		<string>ff</string>
+	</dict>
+	<dict>
+		<key>密码</key>
+		<string>e</string>
+		<key>用户名</key>
+		<string>e</string>
+	</dict>
+</array>
+</plist>
